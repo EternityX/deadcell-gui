@@ -1,5 +1,3 @@
-# This project is superseded by [deadcell-gui-2](https://github.com/EternityX/deadcell-gui-2).
-
 # Notice
 Unfortunately the DEADCELL 'remake' was never finished, therefore this GUI is lacking a lot of features. I believe it is a good base to build from into something nice. It features some nice things such as window managing, event handling, and some other small things.
 
