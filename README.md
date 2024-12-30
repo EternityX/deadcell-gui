@@ -1,8 +1,11 @@
 # Notice
-Unfortunately the DEADCELL 'remake' was never finished, therefore this GUI is lacking a lot of features. I believe it is a good base to build from into something nice. It features some nice things such as window managing, event handling, and some other small things.
+For a more feature complete project, see:
+https://github.com/EternityX/deadcell-gui-2
 
 # DEADCELL GUI
 [![GitHub license](https://img.shields.io/badge/license-BSD3-red)](https://github.com/EternityX/DEADCELL-GUI/blob/master/LICENSE)
+
+Unfortunately the DEADCELL 'remake' was never finished, therefore this GUI is lacking a lot of features. I believe it is a good base to build from into something nice. It features some nice things such as window managing, event handling, and some other small things.
 
 Event-driven UI library for gamehacking. Platform and rendering independent code is handled by [ImGui](https://github.com/ocornut/imgui).
 
@@ -63,16 +66,4 @@ Here are some recommended options to enable/disable in `imconfig.h`.
 #define IMGUI_USE_WCHAR32
 #define IMGUI_ENABLE_FREETYPE
 ```
-
-# Design prototypes
-
-Below are some bonus design prototypes I made which I intended to use for the DEADCELL project, please note that this is not actually included within this repository and is merely a design.
-
-If you bought a menu design looking like the two prototypes below, thinking it was original, you got scammed.
-
-### I (EternityX) do not permit others to use my intellectual property (DEADCELL), or other identifying marks or designs (this includes whole imitations). You may also not cover or obscure any part of the designs. Any other intellectual propery such as the skin images (found in the skins tab) or artwork (found within the scripts tab) of the design are not my property and is fair-use. This notice can be changed at any time.
-
-![image](https://user-images.githubusercontent.com/4403000/230327126-c4c0a408-07c5-4616-9100-14e13b10fc75.png)
-
-https://user-images.githubusercontent.com/4403000/230328040-339e8fe2-56c5-4dd9-8751-1960c956cc85.mp4
 
